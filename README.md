@@ -12,6 +12,13 @@ The analysis covers 10,000 bank customers across France, Germany, and Spain, exa
 
 ---
 
+## 📌 Dashboard Previews
+![Dashboard 1](charts/dashboard_1.png)
+![Dashboard 2](charts/dashboard_2.png)
+![Dashboard 3](charts/dashboard_3.png)
+
+---
+
 ## 🎯 Business Questions Answered
 
 1. What is the overall churn rate?
@@ -80,11 +87,12 @@ bank-customer-churn-analysis/
 
 - **Source:** [Bank Customer Churn Dataset — Kaggle](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction)
 - **Rows:** 10,000 customers
-- **Columns:** 13 features
+- **Columns:** 13 
 
 | Column | Description |
 |---|---|
 | `customer_id` | Unique customer identifier |
+| `surname` | Customer identifier |
 | `credit_score` | Credit score (350–850) |
 | `geography` | Country (France, Germany, Spain) |
 | `gender` | Male / Female |
@@ -142,7 +150,7 @@ Female customers churn at a **9-point higher rate** than male customers.
 | 🔴 3 Products | 266 | 220 | **82.71%** |
 | 🔴 4 Products | 60 | 60 | **100.00%** |
 
-Customers with 3–4 products have **catastrophically high churn** — a strong signal of over-selling or product mismatch.
+Customers with 3–4 products have **exceptionally high churn** — a strong signal of over-selling or product mismatch.
 
 ### 5. Balance vs Credit Score by Churn Status
 | Status | Avg Balance | Avg Credit Score |
@@ -207,8 +215,8 @@ The interactive dashboard includes:
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/dibyashreee/bank-customer-churn-analysis.git
-cd bank-customer-churn-analysis
+git clone https://github.com/dibyashreee/Bank-Customer-Churn-Analysis.git
+cd Bank-Customer-Churn-Analysis
 
 # 2. Install dependencies
 pip install pandas matplotlib seaborn jupyter
