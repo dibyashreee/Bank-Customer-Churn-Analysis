@@ -61,7 +61,7 @@ bank-customer-churn-analysis/
 ├── powerbi/
 │   └── customer_churn_dashboard.pbix   ← Power BI dashboard
 │
-├── visuals/
+├── charts/
 │   ├── churn_by_agegroup.png
 │   ├── churn_by_country.png
 │   ├── churn_by_gender.png
