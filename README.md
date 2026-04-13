@@ -115,7 +115,7 @@ Pivot tables        Export CSVs          Insights           Report
 ## 🔍 Key Findings
 
 ### 1. Overall Churn Rate
-> **20.37%** of customers churned — 2,037 out of 10,000 customers left the bank.
+ **20.37%** of customers churned — 2,037 out of 10,000 customers left the bank.
 
 ### 2. Churn by Geography
 | Country | Total Customers | Churned | Churn Rate |
