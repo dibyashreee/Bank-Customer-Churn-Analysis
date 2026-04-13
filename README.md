@@ -232,7 +232,9 @@ jupyter notebook python/customer_churn_eda.ipynb
 ## 📬 Contact
 
 **Author:** Dibyashree Dey 
+
 **LinkedIn:** www.linkedin.com/in/dibyashreedey 
+
 **Email:** dibyashree15dey01@gmail.com
 
 ---
