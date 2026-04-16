@@ -19,6 +19,21 @@ The analysis covers 10,000 bank customers across France, Germany, and Spain, exa
 
 ---
 
+## 🛠 Skills Demonstrated
+
+- Data Cleaning & Preprocessing (Excel & Python)
+- Exploratory Data Analysis (Pandas, Seaborn)
+- Customer Segmentation Analysis
+- Churn Rate Calculation & KPI Development
+- SQL for Data Extraction & Aggregation
+- Feature Analysis (Age, Balance, Products, Geography)
+- Data Visualization (Matplotlib, Seaborn, Power BI)
+- Dashboard Development for Business Insights
+- Problem Solving using Data-Driven Approach
+- Business Insight Generation & Retention Strategy Suggestions
+
+---
+
 ## 🎯 Business Questions Answered
 
 1. What is the overall churn rate?
